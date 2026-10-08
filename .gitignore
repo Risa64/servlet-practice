@@ -1,0 +1,5 @@
+# Mavenが生成するビルド結果
+/target/
+
+# macOSが生成するファイル
+.DS_Store
